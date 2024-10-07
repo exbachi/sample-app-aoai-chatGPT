@@ -10,7 +10,7 @@ body {
 }
 
 html {
-  background: #f2f2f2;
+  background: linear-gradient(50deg, #003c7d 0%, #0078be 100%);
   font-family:
     'Segoe UI',
     'Segoe UI Web (West European)',
